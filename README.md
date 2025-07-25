@@ -57,7 +57,7 @@ This project is an end-to-end data analytics pipeline focused on **IPL 2025 matc
 
 1. Clone the repository:
    ```bash
- git clone https://github.com/shaan0157/ipl-2025-cricket-analytics
+ git clone(https://github.com/shaan0157/ipl-cricket-data-analytics)
 
 2. cd ipl-2025-cricket-analytics
 
